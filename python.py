@@ -129,3 +129,8 @@ print("Urutan bangun datar berdasarkan luas")
 for index in range(jumlah):
     bangun=bangun_datar[index]
     print(f"[{index}] Nama bangun: {bangun.nama}  Luas: {bangun.luas()}")
+
+
+def biasa():
+    print("biasa")
+# belajar coding biasa
